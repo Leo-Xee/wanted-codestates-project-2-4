@@ -29,7 +29,7 @@
   - [x] 프론트엔드 서버는 `localhost:8888` 으로 설정해주시기 바랍니다.
 
 ## 기능구현
-  - 1팀 : 탭, Redux Setting
+  - 1팀 : 탭, Redux Setting([이장민](https://github.com/leo-xee), [전호용](https://github.com/mooroom))
 
   - 2팀 : 카드 컴포넌트 ([박상우](https://github.com/SangWoo9734), [오카무라 카에](https://github.com/kaehehehe))<br/>
      1. 탭 메뉴에 따라 컨텐츠가 변경<br/> 
